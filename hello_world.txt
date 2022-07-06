@@ -1,0 +1,1 @@
+Editing as per Odin projects git lessons, the file. They said open file and write something on it. The y never explained how to open the file so i just chose nano through the terminal., salute
